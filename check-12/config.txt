@@ -1,0 +1,2 @@
+"--cluster-cidr=192.168.0.0/16",
+                            "--service-cluster-ip-range=10.96.0.0/12",
